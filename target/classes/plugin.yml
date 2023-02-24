@@ -1,0 +1,7 @@
+name: Aftereffect
+version: '1.0-SNAPSHOT'
+main: aftereffect.aftereffect.Main
+api-version: 1.18
+commands:
+  게임:
+    description: 게임 설정

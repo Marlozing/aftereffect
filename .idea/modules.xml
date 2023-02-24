@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/aftereffect.iml" filepath="$PROJECT_DIR$/aftereffect.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../1.18.2 마피아/mafiabymarlozing/mafiabymarlozing.iml" filepath="$PROJECT_DIR$/../../1.18.2 마피아/mafiabymarlozing/mafiabymarlozing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../플러그인 스탯/test05/test05.iml" filepath="$PROJECT_DIR$/../../플러그인 스탯/test05/test05.iml" />
+    </modules>
+  </component>
+</project>

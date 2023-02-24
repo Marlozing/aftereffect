@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="aftereffect:jar">
+    <output-path>$PROJECT_DIR$/../plugins</output-path>
+    <root id="archive" name="aftereffect.jar">
+      <element id="module-output" name="aftereffect" />
+    </root>
+  </artifact>
+</component>
